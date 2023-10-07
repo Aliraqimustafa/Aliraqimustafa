@@ -3,7 +3,7 @@
 ![My Face](https://i.ibb.co/58V30Gz/My-Face.jpg)
 
 
-Hello there! 👋 I'm Mustafa Mohammad, a passionate 17-year-old from Iraq. I'm deeply fascinated by the world of Artificial Intelligence, Machine Learning, and Deep Learning, particularly emerging AI technologies such as Generative Adversarial Networks (GANs) and Reinforcement Learning.
+Hello there! 👋 I'm Mustafa Mohammad, a passionate 17-year-old from Iraq. I'm deeply fascinated by the world of Artificial Intelligence, Machine Learning, and Deep Learning, particularly emerging AI technologies such as Generative Adversarial Networks (GANs) and NLP and CV.
 
 ## 🚀 About Me
 - 🎓 Currently a high school student with a passion for mathematics, including Algebra, Statistics, Calculus, and more.
@@ -15,12 +15,13 @@ Hello there! 👋 I'm Mustafa Mohammad, a passionate 17-year-old from Iraq. I'm 
 - 🛠️ Currently working as a freelance AI developer on different freelance platforms.
 
 ## 🛠️ Skills
-- **Programming:** Python, TensorFlow, OpenAI API, Langchain framework.
+- **Programming:** Python, TensorFlow, OpenAI API, Langchain framework .
 - **Mathematics:** Algebra, Statistics, Calculus, Differential Equations.
 - **Tools:** Git, GitHub, Jupyter Notebook.
+- **AI:** Machine Learning, Deep Learning, Natural Language Processing , Computer Vision , GANs , Time Series Analysis , Chatbot Devlper .
 
 ## 🌱 What I'm Learning
-I'm currently diving deeper into advanced AI techniques, including Generative Adversarial Networks (GANs) and Reinforcement Learning. I'm also exploring ethical AI practices and their applications in real-world scenarios.
+I'm currently diving deeper into advanced AI techniques, including Generative Adversarial Networks (GANs) and NLP. I'm also exploring ethical AI practices and their applications in real-world scenarios.
 
 ## 🔗 Let's Connect!
 Feel free to connect with me on various platforms:
